@@ -175,8 +175,7 @@ Hava ve kara araçları için en yaygın açık kaynak otopilot yazılımları.
 
 ### Türkçe
 
-- [Robotistan Akademi](https://www.robotistan.com/akademi) — Türkçe robotik öğretici içerikler.
-- [Açık Kaynak Yazılım Komitesi](https://github.com/acikkaynak) — Türkiye'nin en aktif açık kaynak topluluklarından biri.
+> Buraya katkı sağlamak için PR açın 
 
 ### İngilizce
 
